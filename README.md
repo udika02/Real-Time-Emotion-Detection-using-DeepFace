@@ -20,7 +20,7 @@ This project performs real-time emotion detection using your webcam, leveraging 
 
 ### Python Version
 
-* **Python 3.9.x**
+* **Python 3.11.x**
   *(Note: DeepFace and TensorFlow versions used here work best with Python 3.11 or 3.10)*
 
 ### Required Python Modules
